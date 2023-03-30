@@ -5,9 +5,10 @@
 ### Repository Structure
 
 ### Built With
-
+- [Python version 3.11.0](https://www.python.org/downloads/)
+- [`{poetry}`](https://python-poetry.org/docs/) for package management
 ### Getting Started
-
+## uses fractonal data
 ### Usage
 
 ### License
@@ -53,3 +54,5 @@ R_0 &= 0.0
 - `funs/` contains ...
 - `out/` contains ...
 - `src/` contains ...
+poetry --version
+- 
